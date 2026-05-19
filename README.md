@@ -1,6 +1,6 @@
 # Atividade1-Arvores
 
-Relatório de justificativa técnica da abordagem recursiva:
+*Relatório de justificativa técnica da abordagem recursiva:*
 
 - Ajuste automático dos ponteiros (O "Pai" do nó):
 
